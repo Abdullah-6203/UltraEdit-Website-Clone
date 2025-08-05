@@ -9,9 +9,8 @@ This project was created to practice layout structuring, responsiveness, and pix
 - Flexbox & Grid  
 - Media Queries
 
-## 🚀 Live Demo
-[View Live](https://abdullah-6203.github.io/UltraEdit-Website-Clone/)  
-*(Replace with your actual GitHub Pages URL after deployment)*
+## 🚀 Live Demo  
+[View Website](https://abdullah-6203.github.io/UltraEdit-Website-Clone/)
 
 ## 📚 What I Learned
 - Structuring real-world UIs using semantic HTML  
