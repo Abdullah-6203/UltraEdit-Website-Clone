@@ -10,7 +10,7 @@ This project was created to practice layout structuring, responsiveness, and pix
 - Media Queries
 
 ## 🚀 Live Demo
-[View Live](https://yourusername.github.io/ultraedit-clone/)  
+[View Live]([https://abdullah-6203.github.io/UltraEdit-Website-Clone/])  
 *(Replace with your actual GitHub Pages URL after deployment)*
 
 ## 📚 What I Learned
