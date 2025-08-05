@@ -1,2 +1,20 @@
-# UltraEdit-Website-Clone
-A responsive front-end clone of the UltraEdit homepage built using HTML and CSS.
+# UltraEdit Clone
+
+A responsive front-end clone of the UltraEdit homepage built using HTML and CSS.  
+This project was created to practice layout structuring, responsiveness, and pixel-perfect UI replication using modern CSS techniques.
+
+## 🔧 Technologies Used
+- HTML5  
+- CSS3  
+- Flexbox & Grid  
+- Media Queries
+
+## 🚀 Live Demo
+[View Live](https://yourusername.github.io/ultraedit-clone/)  
+*(Replace with your actual GitHub Pages URL after deployment)*
+
+## 📚 What I Learned
+- Structuring real-world UIs using semantic HTML  
+- Styling with modern CSS layout systems  
+- Building mobile-responsive designs  
+- Improving visual accuracy and design consistency
